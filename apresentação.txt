@@ -1,0 +1,17 @@
+/* styles.css */
+
+.container {
+    display: flex; /*
+     Define o container como flexbox */
+    justify-content: space-between; /* 
+    Distribui os elementos igualmente na linha */
+    align-items: center; /* 
+    Centraliza verticalmente os elementos */
+    /* Outras propriedades de estilo (como largura, altura, margens etc.) podem ser adicionadas conforme necessário */
+}
+
+.item {
+    /* Estilize os elementos conforme desejado */
+    border: 1px solid #333;
+    padding: 10px;
+}
